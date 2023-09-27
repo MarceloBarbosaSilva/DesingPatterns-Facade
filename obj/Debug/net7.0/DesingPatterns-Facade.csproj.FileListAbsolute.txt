@@ -1,0 +1,14 @@
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\bin\Debug\net7.0\DesingPatterns-Facade.exe
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\bin\Debug\net7.0\DesingPatterns-Facade.deps.json
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\bin\Debug\net7.0\DesingPatterns-Facade.runtimeconfig.json
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\bin\Debug\net7.0\DesingPatterns-Facade.dll
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\bin\Debug\net7.0\DesingPatterns-Facade.pdb
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\DesingPatterns-Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\DesingPatterns-Facade.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\DesingPatterns-Facade.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\DesingPatterns-Facade.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\DesingPatterns-Facade.dll
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\refint\DesingPatterns-Facade.dll
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\DesingPatterns-Facade.pdb
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\DesingPatterns-Facade.genruntimeconfig.cache
+C:\Users\Marcelo\Desktop\facul\Engenharia de Software lll\Design Patterns - Facade\DesingPatterns-Facade\obj\Debug\net7.0\ref\DesingPatterns-Facade.dll
